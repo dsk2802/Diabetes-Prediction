@@ -5,8 +5,8 @@ The dataset provided has all together 16 variables (15 independent and 01 depend
 There is one categorical variable dteday and 15 numerical variables. Out of which one is target variable(cnt).
 
 Steps involved 
-1.Data Preprocessin: Missing value analysis
-2.Outlier Analysis
+Data Preprocessin: Missing value analysis
+Outlier Analysis
 3.Data Visualization
 4.Feature selection using correlation analysis
 5.Model Seleciton
