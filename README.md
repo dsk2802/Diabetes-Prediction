@@ -13,4 +13,4 @@ Steps involved
 6.Model Evaluation
 
 For the above problem statement the model is built using regression. Both R and pyhton are used to implemnt the model.
-While building the model Linear regression and decision tree were applied. 
+While building the model Linear regression and decision tree were applied.
